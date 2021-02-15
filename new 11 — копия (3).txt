@@ -1,0 +1,10 @@
+Assembly 'Assets/Plugins/UnityPurchasing/Bin/Stores.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEngine.Purchasing'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+
+Assembly 'Assets/Plugins/UnityPurchasing/Bin/Editor.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEngine.Purchasing'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Unable to resolve reference 'UnityEditor.Purchasing'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+
